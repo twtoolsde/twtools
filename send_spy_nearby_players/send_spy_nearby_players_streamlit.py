@@ -187,18 +187,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/twtoolsde/twtools.git
-git push -u origin main
-
-
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/twtoolsde/twtools.git
-git push -u origin main
