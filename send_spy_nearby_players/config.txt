@@ -1,0 +1,7 @@
+# Configuration for Tribal Wars Spy Tool
+CSV_PATH=urls.csv
+NUM_TO_OPEN=20
+WAIT_BETWEEN_TABS=0.1
+BROWSER=firefox
+COUNTRY=de
+COUNTRY_URL=die-staemme.de
